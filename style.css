@@ -33,6 +33,7 @@
 /* Testo prodotto  */
 .testo{
     text-transform:uppercase;
+    text-align: center;
 }
 
 .titolo1,
