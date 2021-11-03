@@ -52,3 +52,14 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/* Nav */
+nav{
+    position: fixed;
+    right: 50px;
+    top: 50px;
+}
+
+ul li{
+    display: inline-block;
+}
